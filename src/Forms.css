@@ -1,0 +1,25 @@
+.forms{
+    width: 60%;
+    border-radius: 15px;
+    background: #2c00a0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    text-align: center;
+}
+.btn{
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    background: #676765;
+    border: none;
+    padding: 8px;
+    border-radius: 9px;
+    margin: 17px;
+}
+.noAllow{
+    pointer-events: none; 
+    opacity: 0.6;      
+}

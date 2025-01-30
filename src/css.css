@@ -1,0 +1,34 @@
+.mainbg{
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.381);
+    position: fixed;
+}
+.mainbg h1{
+    color: rgb(255, 0, 0);
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 24px;
+    width: 50%;
+    text-align: center;
+}
+.succeded{
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.381);
+    position: fixed;
+}
+.succeded h1{
+    color: green;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 24px;
+    width: 50%;
+    text-align: center;
+}
